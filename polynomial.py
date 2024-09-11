@@ -52,6 +52,7 @@ print(poly)
 
 add and commit this file with the following message "cs 506 exercise part a". Push these changes to github.
 
+
 b) Write an `evaluate` method to each class that can evaluate the polynomial for a given value of `X`.
 
 ```python
