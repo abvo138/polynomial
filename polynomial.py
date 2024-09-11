@@ -8,7 +8,7 @@ class X:
         pass
 
     def __repr__(self):
-        return Int("X")
+        return "X"
 
 class Int:
     def __init__(self, i):
